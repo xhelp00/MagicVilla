@@ -30,3 +30,8 @@
 /Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net8.0/MagicVilla_VillaAPI.pdb
 /Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net8.0/MagicVilla_VillaAPI.genruntimeconfig.cache
 /Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net8.0/ref/MagicVilla_VillaAPI.dll
+/Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net8.0/MagicVilla_VillaAPI.sourcelink.json
+/Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/helebrant/RiderProjects/Udemy/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
